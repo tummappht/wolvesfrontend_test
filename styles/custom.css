@@ -105,11 +105,11 @@ h4 {
   padding: 1.25em 1em;
 }
 
-.page-header h3 {
+.content-header h3 {
   color: #009efb;
 }
 
-.page-header .breadcrumb {
+.content-header .breadcrumb {
   font-size: 0.9em;
   padding: 0;
   background: none;

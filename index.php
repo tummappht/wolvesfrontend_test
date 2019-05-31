@@ -22,9 +22,9 @@
     <div id="main">
       <?php include("header.php") ?>
       <?php include("sidebar.php") ?>
-      <div class="content">
+      <article class="content">
         <div class="container-fluid">
-          <div class="row page-header">
+          <div class="row content-header">
             <div class="col-md-6">
               <h3 class="mb-0">Form Layout</h3>
             </div>
@@ -319,7 +319,7 @@
           </div>
         </div>
         <?php include("footer.php") ?>
-      </div>
+      </article>
     </div>
   </body>
 </html>
