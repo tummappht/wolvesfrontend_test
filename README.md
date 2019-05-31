@@ -1,4 +1,4 @@
-**Run this on your web server** (ex. xampp, wamp, mamp)
+**Run this on your webserver** (ex. xampp, wamp, mamp)
 
 Thank you  
 Patiphan Ongartitthichai
